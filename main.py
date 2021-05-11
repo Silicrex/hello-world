@@ -1,1 +1,1 @@
-exit('h')
+print('hi')
